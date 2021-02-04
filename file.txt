@@ -1,3 +1,2 @@
-name = 'amos'
 print(name)
 print(name)
